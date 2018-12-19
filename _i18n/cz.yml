@@ -1,7 +1,7 @@
 # Common
 contact:
   interested: Nadchli jsme vás?
-  need_help: Hledáme pomoc! Připojte se. Ne, vážně! Je jedno, co umíte nebo jaké máte nápady! Ať je to cokoliv, zajímá nás to! 
+  need_help: Hledáme pomoc! Připojte se. Ne, vážně! Je jedno, co umíte nebo jaké máte nápady, zajímá nás to! 
   discord: Připojte se na Discord
   github: Přidejte se k nám na Githubu
   thank_you: Děkujeme.
@@ -28,14 +28,14 @@ navbar:
 # https://turtlecoin.lol/
 index_page:
   meta:
-    description: TurtleCoin je vtipný způsob, jak posílat peníze mezi přáteli i v rámci obchodu. TurtleCoin je open-source kryptoměna tvořená komunitou. Je snadno těžitelná a má vlastní peněženku s graickým prostředím.
+    description: TurtleCoin je zábavný způsob, jak posílat peníze mezi přáteli i firmami. TurtleCoin je open-source kryptoměna. tvořená komunitou. Je snadno těžitelná a má vlastní peněženku s graickým prostředím.
     title: TurtleCoin.lol - TurtleCoin je źábavná, rychlá a jednoduchá kryptoměna.
     
   # banner section
   banner_is_fast: TurtleCoin je rychlá
   banner_is_easy: TurtleCoin je jednoduchá
   banner_is_safe: TurtleCoin je bezpečná
-  banner_one_liner: TurtleCoin je zábavný způsob, jak posílat peníze mezi přáteli <br/> i v rámci obchodu.
+  banner_one_liner: TurtleCoin je jednoduchý, rychlý a zábavný způsob, jak posílat peníze <br/> mezi přáteli i firmami.
   banner_download: Ke stažení
   banner_builds: <strong>Máme verzi pro Windows, Apple, i Ubuntu. </strong>Pokud dáváte přednost <strong>zdrojovému kódu</strong>, najdete ho <a href="https://github.com/turtlecoin/turtlecoin/">zde</a>, ale přidejte se k nám i <a href="http://chat.turtlecoin.lol">tady</a>, hledáme možná právě vás.
   
@@ -47,8 +47,8 @@ index_page:
 
   # fun facts section
   fun_facts_title: TURTLE fakty
-  fun_facts_1: TurtleCoin má 30vteřinové bloky, to zaručuje velmi rychlé transakce.
-  fun_facts_2: TurtleCoin má neveřejný blockchain, nikdo tedy nevidí vaše peníze.
+  fun_facts_1: TurtleCoin má 30-ti vteřinové bloky, což zaručuje rychlé transakce.
+  fun_facts_2: TurtleCoin má neveřejný blockchain, nikdo tedy nevidí vaše peníze ani transackce.
   fun_facts_3: Smazanou peněženku jednoduše obnovíte pomocí spend a view klíčů.
 
   # why section
@@ -56,57 +56,57 @@ index_page:
   why_1_title: Rychlé transakce
   why_1: TurtleCoin tvoří bloky každých 30 vteřin oproti klasickým 10 minutám. Vaše peníze tak putují 20x rychleji než u Bitcoinu nebo BitcoinCash.
   why_2_title: Soukromí
-  why_2: TurtleCoin má stejné privátní funkce jako Monero nebo Aeon. Každá transakce je privátní, pokud se ji nerozhodnete zveřejnit.
+  why_2: TurtleCoin má stejné privátní funkce jako Monero nebo Aeon. Pokud se ji nerozhodnete zveřejnit, každá transakce zůstane privátní.
   why_3_title: Lehce se používá
   why_3: Máme podporu pro téměř každý operační systém. <a href="https://turtlecoin.lol/wallet">Papírovou peněženku zdarma</a> si vytvoříte i na mobilu a začít s TurtleCoinem tak můžete do 5 minut.
   why_4_title: Lehce se těží
   why_4: TurtleCoin má svůj vlastní těžební program pro CPU. Pokud dáváte přednost těžbě na GPU, můžete použít jakýkoliv jiný pro Monero. Doporučujeme <a href="https://github.com/fireice-uk/xmr-stak/releases/latest">XMR-Stak Unified Miner</a>.
   why_5_title: Komunita
-  why_5: TurtleCoin komunita ráda přivítá nové uživatele a vývojáře. Nikdo vám nebude nadávat, pokud něco pokazíte a rádi probereme i kritiku naší práce. Přijďte za námi na náš <a href="http://chat.turtlecoin.lol">Discord</a>.
+  why_5: TurtleCoin komunita vždy vítá nové uživatele a vývojáře. Nikdo vám nebude nadávat, když něco pokazíte a rádi probereme i kritiku naší práce. Připojte se k nám na nášem <a href="http://chat.turtlecoin.lol">Discord chatu</a>.
   why_6_title: Podpora
-  why_6: Naši rychle rostoucí komunitu developerů a testerů najdete na <a href="http://meta.turtlecoin.lol">GitHub meta-foru</a>. Můžete nám pomoct hledat bugy a nebo nám prostě jen tak fandit.
+  why_6: Naši rychle rostoucí komunitu developerů a testerů najdete na <a href="http://meta.turtlecoin.lol">GitHub meta-foru</a>. Můžete nám pomoct hledat bugy, učit se a nebo klidně jen tak fandit.
 
   # the story section
   story_title: Příběh
   story_1: Kdo za tím stojí?
   story_2: Většina TurtleCoin přispěvatelů má hustý a na dotek příjemný plnovous. <strong>A TO JE FAKT.</strong></h3>
-  story_3: <em>Díky tomu máme ve schopnosti <strong>Promnutí vousu</strong> +10xp, která zlepšuje náš diagnostický skill a naši vytrvalost. <i class="far fa-smile"></i></em>
+  story_3: <em>Díky tomu máme schopnost <strong>Promnutí vousu</strong> +10xp,která zlepšuje náše diagnostické umění i vytrvalost. <i class="far fa-smile"></i></em>
   story_4: Většina z nás jsou developeři na plný úvazek na jiných projektech a toto je náš způsob, jak dát komunitě něco zpět s pořádnou dávkou zábavy.
   story_5: Jak to celé začalo?
-  story_6: Jednoho prosincového, mrazivého večera seděli RockSteady a Bebop nad džbánem piva. Už ani nevěděli, kolikáté mají, díky bujné diskuzi o šílenství kolem falešných ICO bez reálného produktu. Bebop nadhodil, že v dnešních dnech už ani není možné přijít s pořádným projektem bez velkého týmu, pořádného marketingu a hromady peněz.
-  story_7: RockSteady se opřel o stůl, promnul si plnovous a prohlásil...
+  story_6: Jednoho prosincového, mrazivého večera seděli RockSteady a Bebop nad džbánem piva. Už ani nevěděli, kolikáté mají, díky bujné diskuzi o šílenství kolem falešných ICOs bez reálného produktu. Bebop nadhodil, že v dnešních dnech už ani není možné přijít s pořádným projektem bez velkého týmu, pořádného marketingu a hromady peněz.
+  story_7: RockSteady se naklonil blíže, promnul si plnovous a prohlásil...
   story_8: <strong>"Podrž mi pivo."</strong>
-  story_9: Tu noc, 9. prosince 2017, vznikl TurtleCoin.
+  story_9: Tu noc, 9. prosince 2017, vznikla TurtleCoin.
   story_10: A Proč?
-  story_11: Až moc projektů vybírá <strong>až moc peněz</strong> přestože většina z nich nemá <strong>vůbec žádný produkt</strong>. Řekli jsme si, Co takhle to udělat obráceně? Začneme jen tak ze srandy, uděláme to co nejjednodušší pro všechny, a uvidíme, jak to dopadne.
+  story_11: Až moc projektů vybírá <strong>až moc peněz</strong> přestože většina z nich nemá <strong>vůbec žádný produkt</strong>. Řekli jsme si, co takhle to udělat obráceně? Začneme jen tak ze srandy, uděláme to co nejjednodušší pro všechny, a uvidíme, jak to dopadne.
   story_12: Jsme pevně přesvědčeni o naší strategii, ve které nepotřebujeme vybírat žádné finanční prostředky a pokud se nám povede vytvořit kvalitní projekt, <strong>trh to sám ocení</strong>. Pokud si myslíte, že jsme vedle, rádi od vás <a href="http://meta.turtlecoin.lol">uslyšíme</a> proč.
-  story_13: Jak jednou jedna chytrá krysa pravila "Želva se pohybuje dopředu jen tehdy, když vystrčí hlavu z krunýře"
+  story_13: Jak jednou jedna chytrá krysa pravila "Želva se pohybuje kupředu, jen když vystrkuje hlavu z krunýře"
   story_14: Citace
 
   # fine print section
-  fine_print_title: Co vám jinde neřeknou
-  fine_print_1: V rychlosti pár detailů o projektu.
+  fine_print_title: Fakta v krátkosti
+  fine_print_1: Pár zajímavých detailů o projektu.
   fine_print_2: Prům. odměna za blok
   fine_print_3: 1 blok každých <br> 30 vteřin
   fine_print_4: Developerů <br> <a href="http://chat.turtlecoin.lol">Přidejte se</a>
   fine_print_5: Žádný premine <br>Žádné nepravosti.
   # roadmap section
   roadmap_title: Roadmapa
-  roadmap_1: Ahoj Turtle
+  roadmap_1: Ahoj Želvo
   roadmap_2: TurtleCoin vznikl <strong>12. prosince, 2017</strong>.
-  roadmap_3: Na počátku jsme měli jen příkazový řádek a jeli pouze na Linuxu a banovali nás dokola na všech fórech za TRTL giveawaye.
+  roadmap_3: Na počátku jsme měli jen příkazový řádek, jeli pouze na Linuxu a dokola nás zakazovali na všech fórech za rozdávání $TRTL.
   roadmap_4: GUI peněženky
   roadmap_5: "TurtleCoin komunita makala na tom, aby uživatelům přinesla grafickou podobu peněženky, ale zároveň zachovala i klasiku v podobě příkazového řádku. Od prvního dne jsme se zavázali udělat TurtleCoin co nejjednodušší a to se neobejde bez dobrého GUI. Zkuste jednu z našich peněženek:"
   roadmap_6: Partnerství s trhem
   roadmap_7: Zavázali jsme se, že se TurtleCoin bude veřeně obchodovat do Q2 2018 a to se nám také podařilo na více místech.
   roadmap_8: Vývoj nastartován, Q2 2018
   roadmap_9: Mobius, rychlé bloky bez synchronizace
-  roadmap_10: Největší oříšek v systému proof of work je synchronizace obrovského řetězce a rychlé bloky tomu zrovna dvakrát nepomáhají. Naším cílem je dál tvořit rychlé bloky na kratším řetězci. Jde dost možná o náš největší cíl, se kterým budeme potřebovat nejvíc píchnout.
+  roadmap_10: Největší oříšek v systému proof of work je synchronizace obrovského řetězce a rychlé bloky tomu zrovna dvakrát nepomáhají. Naším cílem je dál tvořit rychlé bloky na kratším řetězci. Jde dost možná o náš nejdůležitější cíl, se kterým budeme potřebovat nejvíc pomoci.
   roadmap_11: TBA
-  roadmap_12: Karai, Jednoduché Smart Contracty
+  roadmap_12: Karai, Jednoduché Smart Contracts
   roadmap_13: Distribuované trustless sítě mají vícero využití daleko nad rámec kryptoměn. Karai je náš plán pro rozjezd distribuovaných aplikací a sítí mimo hlavní blockchain.
   roadmap_14: TurtlePay síť
-  roadmap_15: K čemu je vlastně bankomat, když není po ruce? Kontaktní platby patří včerejšku; bezkontaktní přijímání peněz je hudbou zítřka. Tvůj krypto bankomat ve tvé kapse.
+  roadmap_15: K čemu je vlastně bankomat, když není po ruce? Kontaktní platby patří včerejšku; bezkontaktní přijímání peněz je hudbou zítřka. Noste "kryptobankomat" ve vaší kapse.
   roadmap_16: Vývoj započat, Q3 2018
 
 # https://turtlecoin.lol/brand/
@@ -115,7 +115,7 @@ brand_page:
     description: Pokyny k brandu TurtleCoinu
     title: TurtleCoin | Pokyny k brandu
   why: Proč vlastně pokyny ?
-  why_explanation: Věříme, že každý by měl mít možnost tvořit úžasné věci v a na TurtleCoinu. Pro tyto případy jsme jsme vytvořili správné pokyny, pro <strong>jednoduchou a snadnou cestu</strong> jak umožnit vyjádřit lidem své nápady pod TurtleCoin brandem.
+  why_explanation: Věříme, že každý by měl mít možnost tvořit úžasné věci pro TurtleCoin. Pro tyto případy jsme vytvořili správné pokyny, pro <strong>jednoduchou a snadnou cestu</strong> jak tvořit pod TurtleCoin značkou.
   download: Ke stažení
   manual: TurtleCoin Brand návod
   latest_version: Poslední verze
